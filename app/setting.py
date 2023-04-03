@@ -1,0 +1,6 @@
+"""
+    Created by ldd on 2023/3/15 18:04
+"""
+PER_PAGE = 15
+BEANS_UPLOAD_ONE_BOOK = 0.5
+RECENT_BOOK_COUNT = 30
